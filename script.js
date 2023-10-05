@@ -57,3 +57,9 @@ class FormSend{
         document.querySelector('body').append(this.elem)
     }
 }
+
+class SelectedForm extends FormSend{
+    elem = document.createElement('div');
+
+
+}
