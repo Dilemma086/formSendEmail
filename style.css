@@ -1,3 +1,19 @@
+
+.formAllButton{
+    margin: 20px 50px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.btnMainForm{
+    padding: 15px 20px;
+    background-color: #8a2be2;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+}
+
 .modalForm h4{
     color: #721bc3;
 }
@@ -27,6 +43,7 @@
     cursor: pointer;
 
 }
-.sendmailForm:hover{
+.sendmailForm:hover,
+.btnMainForm:hover{
     background-color: #721bc3;
 }

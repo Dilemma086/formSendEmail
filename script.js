@@ -8,7 +8,7 @@ http.onload = function renderData(){
     data.map(item => {
         const objCard = new FormSend(item)
         objCard.create()
-        objCard.append();
+        // objCard.append();
     })
 }
 
