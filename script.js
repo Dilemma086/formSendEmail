@@ -54,6 +54,6 @@ class FormSend{
         `
     }
     append(){
-        document.querySelector('.form1').append(this.elem)
+        document.querySelector('body').append(this.elem)
     }
 }
