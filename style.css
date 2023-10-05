@@ -1,0 +1,32 @@
+.modalForm h4{
+    color: #721bc3;
+}
+
+.modalForm h4,
+.sendForm{
+    text-align: center;
+}
+.visibleForm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.form-control{
+    width: 350px;
+    margin: 10px 0;
+    padding: 10px 15px;
+    border-radius: 8px;
+    border: 1px solid #8a2be2;
+}
+.sendmailForm{
+    padding: 5px 7px;
+    background-color: #8a2be2;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+
+}
+.sendmailForm:hover{
+    background-color: #721bc3;
+}
