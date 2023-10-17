@@ -6,14 +6,14 @@
     "old": "oldForm1",
     "birthday": "birthdayForm1",
     "adress": "adressForm1",
-    "text": "textForm1",
+    
     "selectData": "selectDataForm1",
     "namePlaceholder": "Введите Ваше ФИО",
     "telPlaceholder": "Телефон в формате +7 xxx xxx xx xx",
     "oldPlaceholder": "Ваш возраст",
     "birthdayPlaceholder": "Дата рождения",
     "adressPlaceholder": "Укажите Ваш адрес",
-    "textPlaceholder": "Опишите подробнее...",
+    
     "selectDataPlaceholder": "Выберите данные",
     "value": "Отправить заявку"
 },
@@ -53,6 +53,6 @@
     "adressPlaceholder": "Укажите Ваш адрес",
     "textPlaceholder": "Опишите подробнее...",
     "selectDataPlaceholder": "Выберите данные",
-    "value": "Отправить"
+    "value": "Отправить запрос"
 }
 ]
